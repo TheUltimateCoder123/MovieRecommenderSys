@@ -1,4 +1,5 @@
-## Movie Recommender System using Streamlit....
+## Movie Recommender System using Streamlit
+This Recommends movie that are much similar to each other based on Cosine distance.
 
 ## Details
 - Content Based that recommends movies on the basis of similarity.
@@ -21,3 +22,9 @@
 
 ## ScreenShot
 ![chhhh](https://user-images.githubusercontent.com/73277254/219680471-65065d1e-f736-42a1-8f3f-2a3a7d0f1da0.png)
+
+## How to run :
+- First install Requirements.txt :
+````   pip install -r requirements.txt  ````
+- second run The app using Following Commands :
+```` streamlit run app.py ````
